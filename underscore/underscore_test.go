@@ -6,7 +6,7 @@ package underscore
 
 import (
     "testing"
-    "github.com/ddliu/motto"
+    "github.com/titpetric/motto"
 )
 
 func TestUnderscoreImport(t *testing.T) {

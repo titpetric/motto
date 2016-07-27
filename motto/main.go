@@ -7,7 +7,7 @@ package main
 import (
     "fmt"
     "os"
-    "github.com/ddliu/motto"
+    "github.com/titpetric/motto"
 )
 
 func usage() {

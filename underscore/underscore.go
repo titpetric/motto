@@ -5,7 +5,7 @@
 package underscore
 
 import (
-    "github.com/ddliu/motto"
+    "github.com/titpetric/motto"
     "github.com/titpetric/otto"
 )
 
